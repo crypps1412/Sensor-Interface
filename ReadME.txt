@@ -5,7 +5,8 @@ Giao diện cảm biến - Sensor Interface (Version 2.0)
 * Hướng dẫn sử dụng:
 --------------------
 
-_ Mở matlab, để sẵn Current Folder ở nơi lưu trữ phần mềm, gõ "Sensor_Interface" vào Command Window, hoặc nhấn trực tiếp vào file Sensor_Interface.fig
+_ Mở matlab, để sẵn Current Folder ở nơi lưu trữ phần mềm
+_ Gõ "Sensor_Interface" vào Command Window, hoặc nhấn trực tiếp vào file Sensor_Interface.fig
 _ Nhấn nút On/Off trên góc trái màn hình
 _ Chọn cổng serial để đọc dữ liệu từ thiết bị, nhấn Connect. Nếu hiện lên NO PORT, kiểm tra lại kết nối cổng USB, nhấn Search để tự động tìm cổng. Chọn BaudRate - tốc độ truyền dữ liệu, nhấn Set up khi hoàn tất.
 _ Save và Load file excel trong thư mục Save có sẵn.
